@@ -20,6 +20,8 @@ A chance to work with an open source organization for 3 months. Its a global pro
 - Make a priority list of organizations in which you are interested in.
 - Start Contributing in atleast two of them as soon as possible
 - Learn about the project well while contributing
-- Submit proposal and have a look on sample proposals.
+- Learn how to [write a proposal](https://www.quora.com/How-to-write-a-good-GSoC-proposal). 
+- Check [sample proposals](https://github.com/saketkc/fos-proposals)
+- Submit proposal
 - Keep Contributing to add credibility to your profile
 
